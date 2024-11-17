@@ -37,13 +37,13 @@ v.	Analog simulation by spectre
 +	Enable Attach to an existing technology library, Click OK
 +	Attach the library to the technology library gpdk045.Click OK
 ### ii)	Create Schematic Cell view.
-•	Go to 1st window i.e virtuoso (CIW)
-•	File-New-Cell view
-•	Setup the new file form
++	Go to 1st window i.e virtuoso (CIW)
++	File-New-Cell view
++	Setup the new file form
 	Library: Select the one you created.
 	Cell: Give the experiment name Ex: Inverter ViewSchematic
 	Type: Schematic press OK
-•	Add the required components from the libraries and make the connections.
++	Add the required components from the libraries and make the connections.
 	Go to instance fixed menu or use shortcut key “I” from keypad to go instances
 	Click on browse. This opens the library browser
 	Now select the appropriate library for components like 
@@ -57,28 +57,28 @@ v.	Analog simulation by spectre
  
 ### iii)	Creating the Symbol for schematic Cell view
 
-•	In the schematic window, execute 
++	In the schematic window, execute 
 	Create – Cell view – From Cell view
 	The cell view from cell view window appears
 	Check Lib Name, Cell Name, From View name must be schematic Press ok
-•	Now Symbol generation form appears. Click Ok If No changes required
-•	A new window with with default symbol is created.
-•	Edit the symbol if you want to give actual symbol shape else continue.
-•	Execute Create-Cell view-from cell view
-•	Library Name and Cell Name must be same which you have used for schematic. Press OK
-•	Check for the position of pin side.Prss OK
-•	Edit for the shape by Create-Shape-Choose required options to edit.
++	Now Symbol generation form appears. Click Ok If No changes required
++	A new window with with default symbol is created.
++	Edit the symbol if you want to give actual symbol shape else continue.
++	Execute Create-Cell view-from cell view
++	Library Name and Cell Name must be same which you have used for schematic. Press OK
++	Check for the position of pin side.Prss OK
++	Edit for the shape by Create-Shape-Choose required options to edit.
 
-Analog simulation by SPECTRE.
-•	In test cell view window
-•	Launch – ADE L(Analog Design Environment)
+#### Analog simulation by SPECTRE.
++	In test cell view window
++	Launch – ADE L(Analog Design Environment)
 	Execute Setup—Simulation/directory/Host A new window opens
 	Set the simulation window to spectre and click ok
 	Execute Analysis – Choose. A window opens.
 	Select the type and set the specifications and press OK
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
-•	Execute Simulation -- Net list and Run
++	Execute Simulation -- Net list and Run
 ![image](https://github.com/user-attachments/assets/0989dfd8-d74e-4b58-86b2-7cffbc18643b)
 
 
