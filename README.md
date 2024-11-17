@@ -86,8 +86,6 @@ v.	Analog simulation by spectre
 ### For Transient Analysis Settings and Output
 ![image](https://github.com/user-attachments/assets/71fb3d06-0861-4d9a-8696-98659fc2078a)
 
-
-
 ## Results:
 The design and implementation of the 6T SRAM cell using Cadence EDA tools were successfully achieved. Simulation results validated the correct functionality and performance of the SRAM cell, including stable read/write operations,
 
