@@ -16,9 +16,9 @@ To design and implement a 6T SRAM (Static Random-Access Memory) cell using Caden
 
 1.	Right Click and open the terminal window
 2.	Type the following commands as follows and press enter.
-•	csh
-•	source /cadence/install/cshrc
-•	virtuoso 
++	csh
++	source /cadence/install/cshrc
++	virtuoso 
 ### Procedure for Schematic simulation using Cadence
 
 1.	Now two windows must open i) virtuoso/command interpreter window ii)”Whats New…”
@@ -32,10 +32,10 @@ v.	Analog simulation by spectre
 
 ## Steps for Schematic Simulation using Cadence:
 ### i)	Procedure for Creating New Library.
-•	File –New – Library
-•	Name: Give name for ur library Ex: VLSILAB_EXP_1
-•	Enable Attach to an existing technology library, Click OK
-•	Attach the library to the technology library gpdk045.Click OK
++	File –New – Library
++	Name: Give name for ur library Ex: VLSILAB_EXP_1
++	Enable Attach to an existing technology library, Click OK
++	Attach the library to the technology library gpdk045.Click OK
 ### ii)	Create Schematic Cell view.
 •	Go to 1st window i.e virtuoso (CIW)
 •	File-New-Cell view
