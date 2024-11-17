@@ -1,4 +1,4 @@
-# Ex No: 04     Design & Implementation of 6T SRAM using Cadence EDA Tools   
+# EX No: 04     Design & Implementation of 6T SRAM using Cadence EDA Tools   
 
 
 ## Aim:
